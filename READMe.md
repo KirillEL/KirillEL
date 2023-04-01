@@ -5,7 +5,9 @@
 - CTF Player @QarabagTeam<br>
  <br>
  
- [![](https://visitcount.itsvg.in/api?id=KirillEL&icon=0&color=0)](https://visitcount.itsvg.in)
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KirillEL&label=Profile%20Views&color=5&icon=7&pretty=true" />
+</a>
 
 
 ## 💻 Tech Skills:
