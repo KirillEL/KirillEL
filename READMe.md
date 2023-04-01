@@ -1,4 +1,4 @@
-##  About Me:
+## ❤️ About Me:
 - 20 y.o
 - Student NSTU
 - [Dispace NSTU](https://dispace.edu.nstu.ru)
