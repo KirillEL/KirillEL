@@ -1,8 +1,11 @@
 #  About Me:
-# 20 y.o<br># Student NSTU <br># [Dispace NSTU] (https://dispace.edu.nstu.ru)<br># CTF Player @QarabagTeam<br>
+### 20 y.o
+### Student NSTU
+### [Dispace NSTU](https://dispace.edu.nstu.ru)
+### CTF Player @QarabagTeam<br>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,postgres,redis,docker,linux,python,fastapi)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KirillEL&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
