@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,redis,postgreSQL,fastAPI)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,redis,postgres,fastapi)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KirillEL&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KirillEL&theme=blueberry&hide_border=false)<br/>
