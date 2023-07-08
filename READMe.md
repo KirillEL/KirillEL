@@ -11,7 +11,7 @@
 
 
 ## 💻 Tech Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,postgres,redis,docker,linux,python,fastapi,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,postgres,redis,docker,linux,python,golang)](https://skillicons.dev)
 ## 📊 GitHub Stats:
 <a height="200" href="https://github.com/KirillEL/github-readme-stats">
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=KirillEL&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true">
