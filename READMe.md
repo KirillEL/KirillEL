@@ -9,28 +9,28 @@
 
 
 ## 💻 Stack:
-# Languages:
+### Languages:
 <p>
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=go,py,js,ts,solidity,bash"/>
  </a>
 </p>
 
-# Frameworks:
+### Frameworks:
 <p>
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=fastapi,express"/>
  </a>
 </p>
 
-# Databases:
+### Databases:
 <p>
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=postgres,redis,mysql"/>
  </a>
 </p>
 
-# Others:
+### Others:
 <p>
  <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,githubactions,grafana,kafka,linux,netlify,nginx&perline=3"/>
