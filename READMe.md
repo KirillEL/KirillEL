@@ -1,5 +1,5 @@
 ## ❤️ About Me:
-- 20 y.o <img align="center" src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e473qsnfatbrt390rjdhnmx4s7gtu6ou6q6wwbvehwr&ep=v1_gifs_search&rid=giphy.gif" width="230"/>
+- 20 y.o <img align="right" src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e473qsnfatbrt390rjdhnmx4s7gtu6ou6q6wwbvehwr&ep=v1_gifs_search&rid=giphy.gif" width="300"/>
 - Student @ NSTU 
 - [Dispace NSTU](https://dispace.edu.nstu.ru)
 - CTF Player @ [QarabagTeam](https://github.com/Qarabag-Team)
