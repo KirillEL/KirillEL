@@ -5,7 +5,7 @@
 - [Dispace NSTU](https://dispace.edu.nstu.ru)
 - CTF Player @ [QarabagTeam](https://github.com/Qarabag-Team)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=19&pause=1000&color=F70000&vCenter=true&width=435&lines=Back-end+%2F+DevOps+Engineer+;Always+learning+new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=19&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Back-end+%2F+DevOps+Engineer+;Always+learning+new+things+)](https://git.io/typing-svg)
 
  ## 📱 Socials:
  - [Telegram](https://t.me/kirill_13311)
