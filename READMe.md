@@ -9,7 +9,7 @@
  - [Telegram](https://t.me/kirill_13311)
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Favourite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -29,14 +29,12 @@
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>   
+   <p>
+      <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,azure,aws"/>
+     </a>
   </p>
-
+ 
   <h3>💻 Software and Tools</h3>
     <p>
  <a href="https://skillicons.dev">
