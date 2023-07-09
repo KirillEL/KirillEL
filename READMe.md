@@ -1,17 +1,43 @@
 ## ❤️ About Me:
 - 20 y.o
-- Student NSTU
+- Student @ NSTU
 - [Dispace NSTU](https://dispace.edu.nstu.ru)
-- CTF Player @QarabagTeam<br>
- <br>
- 
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=KirillEL&label=Profile%20Views&color=5&icon=7&pretty=true" />
-</a>
+- CTF Player @ [QarabagTeam](https://github.com/Qarabag-Team)<br>
+
+ ## 📱 Socials:
+ - [Telegram](https://t.me/kirill_13311)
 
 
-## 💻 Tech Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,postgres,redis,docker,linux,python,golang)](https://skillicons.dev)
+## 💻 Stack:
+# Languages:
+<p>
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=go,py,js,ts,solidity,bash"/>
+ </a>
+</p>
+
+# Frameworks:
+<p>
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=fastapi,express"/>
+ </a>
+</p>
+
+# Databases:
+<p>
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=postgres,redis,mysql"/>
+ </a>
+</p>
+
+# Others:
+<p>
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,githubactions,grafana,kafka,linux,netlify,nginx&perline=3"/>
+ </a>
+</p>
+
+
 ## 📊 GitHub Stats:
 <a height="200" href="https://github.com/KirillEL/github-readme-stats">
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=KirillEL&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true">
