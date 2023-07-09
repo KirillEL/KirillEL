@@ -38,7 +38,7 @@
   <h3>💻 Software and Tools</h3>
     <p>
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,githubactions,grafana,kafka,linux,netlify,nginx&perline=3"/>
+   <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,githubactions,grafana,kafka,linux,netlify,nginx"/>
  </a>
   </p>
   <p>
