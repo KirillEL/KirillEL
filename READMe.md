@@ -25,7 +25,7 @@
 
   <p>
        <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=fastapi,express"/>
+         <img src="https://skillicons.dev/icons?i=fastapi,express,gin,fiber"/>
        </a>
   </p>
 
